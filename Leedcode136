@@ -14,7 +14,7 @@ int main()
 	for(i=0;i<sz;i++)
 	{
 	//统计arr[i]在arr数组中出现了几次	
-	   for(j=0;i<sz;j++)
+	   for(j=0;j<sz;j++)
 	   {
 		   if(arr[i]==arr[j])
 		   {
