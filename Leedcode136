@@ -10,6 +10,7 @@ int main()
 	int count = 0;
 	//计算数组的元素个数
 	int sz=sizeof(arr)/sizeof(arr[0]);
+	
 	//遍历
 	for(i=0;i<sz;i++)
 	{
